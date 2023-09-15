@@ -353,16 +353,11 @@ header {
     width: 100%;
   }
 
-  .alert {
-  width: 15rem;
-  }
-  
-  .alert-warning {
-  width: 15rem;
-  }
-  
-  .alert-error {
-  width: 15rem;
+  .alert, 
+  .alert-warning, 
+  .alert-error{
+  width: 10rem;
+  padding: 0,5rem
   }
 
 }
