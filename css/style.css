@@ -353,4 +353,16 @@ header {
     width: 100%;
   }
 
+  .alert {
+  width: 15rem;
+  }
+  
+  .alert-warning {
+  width: 15rem;
+  }
+  
+  .alert-error {
+  width: 15rem;
+  }
+
 }
