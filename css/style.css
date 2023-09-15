@@ -356,8 +356,8 @@ header {
   .alert, 
   .alert-warning, 
   .alert-error{
-  width: 10rem;
-  padding: 0,5rem
+  width: 20rem;
+  padding: 0,7rem
   }
 
 }
